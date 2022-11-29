@@ -3,6 +3,6 @@
 > Status do projeto: Em Desenvolvimento
 
 Para rodar o projeto em sua máquina, por favor digite:
-'''
+```
 NPM Install React
-'''
+```
